@@ -108,4 +108,4 @@ sensor.comcast_avg_gb_left:
   friendly_name: Remaining Daily Avg.
 ```
 ## Required dependencies
-The only requirement for the Python script is the requests library.
+The only requirement for the Python script is the `requests` library.
