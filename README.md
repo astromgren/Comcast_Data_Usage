@@ -7,7 +7,7 @@ Python script designed to return Comcast internet usage data for us in [Home Ass
 
 ## Configuration
 
-Modify the `username` and `password` variables to match your Comcast main account. Update the `json_file` variable if required.
+Modify the `username` and `password` variables in `comcast.py` to match your Comcast main account. Update the `json_file` variable if required.
 
 Put `comcast.py` somewhere inside your Home Assistant configuration directory.
 
